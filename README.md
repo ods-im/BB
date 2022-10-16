@@ -1,4 +1,4 @@
-|	 |	名称	 |	 链接	 |	人数	|	题材	|	时代	|	难度	|	价格	|	时长	|
+ |	名称	 |	人数	|	题材	|	时代	|	难度	|	价格	|	时长	|
 |	[	福威镖局](https://m.mszmapp.com/store/bookdetail/1)|	7	|	现实	|	古代	|	困难	|	59	|	3	|
 |	[	江湖](https://m.mszmapp.com/store/bookdetail/2)|	8	|	现实	|	古代	|	困难	|	29	|	2.5	|
 |	[	救赎之城](https://m.mszmapp.com/store/bookdetail/3)|	7	|	魔幻	|	架空	|	烧脑	|	99	|	3	|
